@@ -30,3 +30,6 @@ extension UIColor {
         )
     }
 }
+
+// to use
+// let color = UIColor(hex: "000000")
